@@ -13,6 +13,19 @@ body {
 
 }
 
+.container.banner {
+    background-color: $color-accent;
+    padding: 3em 2em;
+    max-width: 100%;
+    
+    p, h3 {
+        color: $color-white;
+        margin: auto;
+    }
+
+    
+}
+
 /*MEDIA QUERES*/
 
 /* RESPONSIVE-TYPE*/

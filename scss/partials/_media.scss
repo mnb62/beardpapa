@@ -5,8 +5,15 @@ img {
     height: auto;
 
     &.logo {
-        max-width: 100px;
+        max-width: 75px;
         height: auto;
+        float: left;
+    }
+
+    &.logo.home {
+        max-width: 200px;
+        height: auto;
+        float: left;
     }
 
 }
